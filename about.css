@@ -1,0 +1,51 @@
+#me-img {
+    width: 25%;
+    height: 40%;
+    padding-right: 50px;
+}
+
+.description h1 {
+    font-size: 2rem;
+    font-weight: 500;
+    width: 750px;
+    padding-bottom: 30px;
+    
+}
+.description p {
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+.circles-container {
+    padding-top: 10px;
+    display: flex;
+}
+
+.about-content {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.description p {
+    padding-bottom: 30px;
+    width: 750px;
+    font-size: 1.3rem;
+}
+
+.description a {
+    color: #794c0c;
+    font-weight: 800;
+    text-decoration: underline;
+    font-size: 1rem;
+    margin-left: -20px;
+}
+
+.download {
+    display: flex;
+}
+
+.download-img {
+    width: 20px;
+    height: 20px;
+}
